@@ -231,6 +231,6 @@ void loop() {
 
 ## 9. Link Tinkercad
 
-> 🔗 **[Inserir link do projeto no Tinkercad aqui]**
+> 🔗 **[tinkercad](https://www.tinkercad.com/things/kzxMVqJGcob-atividade-semaforo-carro-pedestre-n1)**
 
 ---
